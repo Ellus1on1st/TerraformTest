@@ -1,3 +1,3 @@
 # Terraform Test Azure
 
-Test deployment of Azure infrastructiure using Terraform and ADO
+Test deployment of Azure infrastructure using Terraform and ADO
